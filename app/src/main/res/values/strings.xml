@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConversordeMoedas</string>
+    <string name="tituloMain">Qual o valor em R$</string>
+    <string name="valor_em_dolar">Valor em Dolar</string>
+    <string name="informe_valor">Informe o valor em real</string>
+</resources>
